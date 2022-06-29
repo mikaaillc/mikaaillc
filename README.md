@@ -5,5 +5,7 @@
   <a href="www.linkedin.com/in/mikailcelik">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  </div>
+  <div  align="center" >
   <img src="https://komarev.com/ghpvc/?username=mikaaillc&style=flat-square&color=blue" alt=""/>
 </div>
