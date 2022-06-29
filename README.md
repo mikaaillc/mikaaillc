@@ -8,7 +8,7 @@ I am a Full Stack Developer from Turkey.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikaaillc&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaaillc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -21,7 +21,6 @@ I am a Full Stack Developer from Turkey.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
 <div id="header" align="center"><img src="https://media1.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e47c6pskgxb70ch0fe3y3nlgrs59zow241sud0srlu6&amp;rid=giphy.gif&amp;ct=s"  width = "200"/></div>
 <div id="badges" align="center" >
   <a href="www.linkedin.com/in/mikailcelik">
